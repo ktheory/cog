@@ -4,7 +4,7 @@
 
 ### Enhancements
 
-- Support for per-room and per-user-per-room dynamic configuration [#850](https://github.com/operable/cog/issues/850)
+- Support for per-room and per-user dynamic configuration [#850](https://github.com/operable/cog/issues/850)
 - Updated message bus to emqttd 1.1.2 [#865](https://github.com/operable/cog/issues/865)
 
 ### Bug Fixes
